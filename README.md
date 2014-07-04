@@ -9,6 +9,6 @@ Once the window is open, you can test that the tool is working by adding "SCRIPT
 
 Script defines can be toggled per-project by selecting the dropdown next to each definition.
 
-This program is MIT licensed, so you can do whatever you want with it :)
+This program is MIT licensed, so you can do whatever you want with it :) You can download a Unity package with everything you need at this link: https://dl.dropboxusercontent.com/u/12558999/ScriptDefinesWindow.unitypackage
 
 Contact me via twitter @becksebenius if you have questions or comments.
