@@ -155,6 +155,8 @@ public class ScriptDefinesWindow : EditorWindow
 	void OnGUI ()
 	{
 		EditorGUILayout.BeginHorizontal();
+		GUILayout.Label(EditorApplication.isCompiling ? "Compiling..." : " ");
+		
 		GUILayout.FlexibleSpace();
 		
 		GUI.enabled = this.changed
